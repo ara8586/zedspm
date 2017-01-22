@@ -63,7 +63,7 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨سایت اصلی: Tarfand.Ir ✨
+✨آیدی مدیر ربات:@Mr_ahmadix ✨
 </i>]]
 end
 
