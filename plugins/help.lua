@@ -64,7 +64,7 @@ function run(msg, matches)
 
 〰〰〰〰〰〰〰〰
 
-✨آیدی مدیر: Mr_ahmadix@ 
+👉آیدی مدیر: Mr_ahmadix@ 👈
 </i>]]
 end
 
